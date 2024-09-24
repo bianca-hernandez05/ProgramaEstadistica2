@@ -1,0 +1,110 @@
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.exe
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll.config
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.deps.json
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.runtimeconfig.json
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.pdb
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Statistics.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.AssemblyReference.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Interop.VISCHARTLib.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.ResolveComReference.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.Form1.resources
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.GenerateResource.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfoInputs.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfo.cs
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.CoreCompileInputs.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa.5AB86141.Up2Date
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\refint\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.pdb
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.genruntimeconfig.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\ref\Programa_de_estadistica.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.exe
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll.config
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.deps.json
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.runtimeconfig.json
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.pdb
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Statistics.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.AssemblyReference.cache
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.ResolveComReference.cache
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.Form1.resources
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.GenerateResource.cache
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfoInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfo.cs
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa.5AB86141.Up2Date
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\refint\Programa_de_estadistica.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.pdb
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.genruntimeconfig.cache
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\ref\Programa_de_estadistica.dll
+C:\Users\Gallo\OneDrive\Escritorio\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.exe
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll.config
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.deps.json
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.runtimeconfig.json
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.pdb
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Statistics.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.AssemblyReference.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Interop.VISCHARTLib.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.ResolveComReference.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.Form1.resources
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.GenerateResource.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfoInputs.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfo.cs
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.CoreCompileInputs.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa.5AB86141.Up2Date
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\refint\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.pdb
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.genruntimeconfig.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca 2.1\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\ref\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.exe
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll.config
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.deps.json
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.runtimeconfig.json
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Programa_de_estadistica.pdb
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.Core.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Math.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\Accord.Statistics.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\MathNet.Numerics.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\bin\Debug\net8.0-windows\OxyPlot.WindowsForms.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.AssemblyReference.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Interop.VISCHARTLib.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.ResolveComReference.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.Form1.resources
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.GenerateResource.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfoInputs.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.AssemblyInfo.cs
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.csproj.CoreCompileInputs.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa.5AB86141.Up2Date
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\refint\Programa_de_estadistica.dll
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.pdb
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\Programa_de_estadistica.genruntimeconfig.cache
+D:\Aplicaciones uni\Programa de estadistica\Primera parte del programa de estadistica\Tareas de estadisitca Parte Final\Tareas de estadisitca\Programa_de_estadistica\obj\Debug\net8.0-windows\ref\Programa_de_estadistica.dll
